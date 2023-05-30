@@ -24,8 +24,7 @@
           "v1beta0"
         ],
         "resources": [
-          "KubeletConfiguration",
-          "KubeletCommandLine"
+          "KubeletInfo"
         ]
       }
     ],
